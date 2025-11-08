@@ -1,0 +1,14 @@
+{
+  "technical": {
+    "rmse": 0.3531884921036082,
+    "direction_accuracy": 0.627906976744186
+  },
+  "fundamental": {
+    "rmse": 0.038567299942546554,
+    "direction_accuracy": 0.5116279069767442
+  },
+  "ensemble": {
+    "rmse": 0.026473484514384638,
+    "direction_accuracy": 0.627906976744186
+  }
+}
